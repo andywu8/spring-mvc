@@ -14,7 +14,7 @@
 :project_id: gs-serving-web-content
 
 This guide walks you through the process of creating a "`Hello, World`" web site with
-Spring.
+Spring. Link: https://github.com/andywu8/spring-mvc
 
 == What You Will Build
 
