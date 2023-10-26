@@ -16,6 +16,11 @@
 This guide walks you through the process of creating a "`Hello, World`" web site with
 Spring. Link: https://github.com/andywu8/spring-mvc
 
+== Run Instructions
+* ./mvnw spring-boot:run 
+* ./gradlew bootRun not working for some reason
+* Navigate to localhost:8080/greeting
+* test out http://localhost:8080/greeting?name=User
 == What You Will Build
 
 You will build an application that has a static home page and that will also accept HTTP
